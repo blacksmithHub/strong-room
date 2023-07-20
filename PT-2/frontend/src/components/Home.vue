@@ -66,32 +66,8 @@
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
-*{
-  font-family: 'Montserrat', sans-serif;
-}
-
-body{
-  background:#FFCC10;
-  text-align:center;
-}
-
 #nbr{
   font-size:62px;
   margin:44px 0 0 0;
 }
-
-button{
-  outline:none;
-  background:none;
-  border:2px solid #000;
-  padding:11px;
-  cursor:pointer;
-}
-
-button:active{
-  background:#000;
-  color:#FFCC10;
-}
-
 </style>
